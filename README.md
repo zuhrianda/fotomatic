@@ -1,0 +1,1 @@
+This is the capstone project for CSS course from codecademy. The objective is to fix a broken responsive website using vanilla CSS. It was quite annoying since the spec is incomplete and the code and the solution provided were broken. I decided to write the css file from scratch and try to make it as close as the spec as possible.
